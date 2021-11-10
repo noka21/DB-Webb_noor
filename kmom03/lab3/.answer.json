@@ -1,0 +1,30 @@
+{
+    "details": "Generated for noka21 at 2021-09-29 19:07:30.",
+    "key": "ac34781bd3ced108abccf2700c88045f",
+    "summary": {
+        "questions": 8,
+        "points": 8,
+        "pass": 8.0,
+        "passdistinct": 8.0
+    },
+    "points": {
+        "1.1": 1,
+        "1.2": 1,
+        "1.3": 1,
+        "1.4": 1,
+        "2.1": 1,
+        "2.2": 1,
+        "2.3": 1,
+        "2.4": 1
+    },
+    "answers": {
+        "1.1": true,
+        "1.2": false,
+        "1.3": 28,
+        "1.4": "mYsecretpassw0rd is a valid password and contains 4 vowels.",
+        "2.1": 574,
+        "2.2": "vacation is a funny word",
+        "2.3": 8100,
+        "2.4": "blunderbuss is a funny word and the square is 8100"
+    }
+}
